@@ -6,6 +6,7 @@ SQL is Structured Query Language, which is a computer language for storing, mani
 SQL is the standard language for Relational Database System. All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their standard database language.
 Why SQL :--
 >> SQL is widely popular because it offers the following advantages −
+
 >> Allows users to access data in the relational database management systems.
 >> Allows users to describe the data.
 >> Allows users to define the data in a database and manipulate that data.
